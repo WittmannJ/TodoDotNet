@@ -1,0 +1,14 @@
+C:\Users\jackl\Desktop\programming\D\DotnetCore_TodoApi\bin\Debug\netcoreapp2.1\DotnetCore_TodoApi.deps.json
+C:\Users\jackl\Desktop\programming\D\DotnetCore_TodoApi\bin\Debug\netcoreapp2.1\DotnetCore_TodoApi.runtimeconfig.json
+C:\Users\jackl\Desktop\programming\D\DotnetCore_TodoApi\bin\Debug\netcoreapp2.1\DotnetCore_TodoApi.runtimeconfig.dev.json
+C:\Users\jackl\Desktop\programming\D\DotnetCore_TodoApi\bin\Debug\netcoreapp2.1\DotnetCore_TodoApi.dll
+C:\Users\jackl\Desktop\programming\D\DotnetCore_TodoApi\bin\Debug\netcoreapp2.1\DotnetCore_TodoApi.pdb
+C:\Users\jackl\Desktop\programming\D\DotnetCore_TodoApi\obj\Debug\netcoreapp2.1\DotnetCore_TodoApi.csprojAssemblyReference.cache
+C:\Users\jackl\Desktop\programming\D\DotnetCore_TodoApi\obj\Debug\netcoreapp2.1\DotnetCore_TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\jackl\Desktop\programming\D\DotnetCore_TodoApi\obj\Debug\netcoreapp2.1\DotnetCore_TodoApi.RazorAssemblyInfo.cache
+C:\Users\jackl\Desktop\programming\D\DotnetCore_TodoApi\obj\Debug\netcoreapp2.1\DotnetCore_TodoApi.RazorAssemblyInfo.cs
+C:\Users\jackl\Desktop\programming\D\DotnetCore_TodoApi\obj\Debug\netcoreapp2.1\DotnetCore_TodoApi.AssemblyInfoInputs.cache
+C:\Users\jackl\Desktop\programming\D\DotnetCore_TodoApi\obj\Debug\netcoreapp2.1\DotnetCore_TodoApi.AssemblyInfo.cs
+C:\Users\jackl\Desktop\programming\D\DotnetCore_TodoApi\obj\Debug\netcoreapp2.1\DotnetCore_TodoApi.RazorTargetAssemblyInfo.cache
+C:\Users\jackl\Desktop\programming\D\DotnetCore_TodoApi\obj\Debug\netcoreapp2.1\DotnetCore_TodoApi.dll
+C:\Users\jackl\Desktop\programming\D\DotnetCore_TodoApi\obj\Debug\netcoreapp2.1\DotnetCore_TodoApi.pdb
